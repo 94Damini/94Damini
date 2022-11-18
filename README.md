@@ -6,7 +6,8 @@
 Skills: Python | SQL | Power Bi | Tableau | Machine Learning
 
 - 🔭 I’m currently working on this page. 
-- 🌱 I’m currently learning  Machine Learning 
+- 🌱 I’m currently learning 
+-     Machine Learning 
 - 🤔 I’m looking for help with projects related to Machine Learning 
 - 📫 How to reach me: daminisgaur1994@gmail.com 
 
@@ -25,5 +26,5 @@ Skills: Python | SQL | Power Bi | Tableau | Machine Learning
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=94Damini)  
 
-![Profile views](https://gpvc.arturio.dev/94Damini)  
+  
 
