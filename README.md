@@ -1,7 +1,7 @@
                                                           ### Hi there 👋, Damini Singh Gaur
                                                   #### Data Analyst | Data Scientist | Machine Learning
 
-
+![Profile views](https://gpvc.arturio.dev/94Damini)
 
 Skills: Python | SQL | Power Bi | Tableau | Machine Learning
 
