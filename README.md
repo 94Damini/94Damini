@@ -7,9 +7,9 @@ Skills: Python | SQL | Power Bi | Tableau | Machine Learning
 
 - 🔭 I’m currently working on this page. 
 - 🌱 I’m currently learning 
-      Machine Learning 
+-     Machine Learning 
 - 🤔 I’m looking for help with 
-     projects related to Machine Learning 
+-     projects related to Machine Learning 
 - 📫 How to reach me: daminisgaur1994@gmail.com 
 
 
