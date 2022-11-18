@@ -1,4 +1,4 @@
-                                                          ### Hi there 👋, Damini Singh Gaur
+                                                          **👋 Hi there , Damini Singh Gaur**
                                                   #### Data Analyst | Data Scientist | Machine Learning
 
 ![Profile views](https://gpvc.arturio.dev/94Damini)
