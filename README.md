@@ -1,13 +1,12 @@
-### Hi there 👋
-### Hi there 👋, Damini Singh Gaur
-#### Data Analyst | Data Scientist | Machine Learning
+                                                                    ### Hi there 👋, Damini Singh Gaur
+                                                            #### Data Analyst | Data Scientist | Machine Learning
 ![Data Analyst | Data Scientist | Machine Learning](https://www.google.com/imgres?imgurl=https%3A%2F%2Fwww.hmr.co.com%2Fwp-content%2Fuploads%2F2021%2F04%2FOurData_Banner_FI.jpg&imgrefurl=https%3A%2F%2Fwww.hmr.co.com%2Four-data%2F&tbnid=m-wGVBIs_NtyTM&vet=10COUBEDMotAJqFwoTCMDtos3LuPsCFQAAAAAdAAAAABAE..i&docid=C-rv8enkXCdQ2M&w=1200&h=628&q=data%20banner&hl=en&ved=0COUBEDMotAJqFwoTCMDtos3LuPsCFQAAAAAdAAAAABAE)
 
 
 Skills: Python | SQL | Power Bi | Tableau | Machine Learning
 
 - 🔭 I’m currently working on this page. 
-- 🌱 I’m currently learning Machine Learning 
+- 🌱 I’m currently learning  Machine Learning 
 - 🤔 I’m looking for help with projects related to Machine Learning 
 - 📫 How to reach me: daminisgaur1994@gmail.com 
 
