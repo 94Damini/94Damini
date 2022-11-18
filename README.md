@@ -26,4 +26,4 @@ Skills: Python | SQL | Power Bi | Tableau | Machine Learning
 ![GitHub metrics](https://metrics.lecoq.io/94Damini)  
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=94Damini)  
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/94Damini)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/www.linkedin.com/in/damini-singh-gaur-511145243/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg' alt='hackerrank' height='40'>](daminisgaur1994)  
+  
