@@ -2,7 +2,7 @@
   </h1>
 <h3 align="center">Data Analyst | Data Scientist | Machine Learning</h3>
 
-![Profile views](https://gpvc.arturio.dev/94Damini)
+[Profile views](https://gpvc.arturio.dev/94Damini)
 
  👀 About me:
  
@@ -29,25 +29,26 @@
       email:  daminisgaur1994@gmail.com 
 
  
- ## Connect with me:
+
+<h3 align="left"> Github Status:</h3>
+  
+![𝚝𝚛𝚘𝚙𝚑𝚢](https://github-profile-trophy.vercel.app/?username=94Damini&column=9&margin-w=10&margin-h=10&no-bg=true&no-frame=true&theme=juicyfresh)
+  
+  
+ 
+  <p align="left">
+    <a href="https://github.com/94Damini/github-readme-streak-stats">
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="94Daministreak"  img height="140em"src="https://github-readme-streak-stats.herokuapp.com/?user=94Damini&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+    </a>
+
+
+  <div align="center">
+<h3> Connect with me<a href="https://gifyu.com/image/Zy2f"><img src="https://github.com/milaan9/milaan9/blob/main/Handshake.gif" width="60"></a>
+</h3> 
   
 <p align="left">
 
-<a href = "https://www.linkedin.com/in/damini-singh-gaur-511145243/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>  
-  
-  
-  
- ![𝚝𝚛𝚘𝚙𝚑𝚢](https://github-profile-trophy.vercel.app/?username=94Damini&column=9&margin-w=15&margin-h=15&no-bg=true&no-frame=true&theme=juicyfresh)
-  
- 
-  
-  <p align="center">
-    <a href="https://github.com/94Damini/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="94Daministreak" src="https://github-readme-streak-stats.herokuapp.com/?user=94Damini&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
-    </a>
-</p>
-
-
-  
- 
+<a href = "https://www.linkedin.com/in/damini-singh-gaur-511145243/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a> 
+<a href="mailto:daminisgaur1994@gmail.com" target="_blank"><img alt="Gmail" width="25px"    
+src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg"></a> 
   
