@@ -26,7 +26,7 @@
 
   <h3 align="left">Practice Sites Makes Me Better :</h3>
 <p align="left">
-   <a href="https://www.hackerrank.com/dashboard" target="blank"><img align="center" src="https://cdn-images-1.medium.com/max/2600/1*UGT1Rh9xLww3JeIDR1F0RQ.png" alt="HackerRank" height="100" width="180" /></a>   <a href="https://datalemur.com/" target="blank"><img align="center" src="https://cdn-images-1.medium.com/max/2600/1*UGT1Rh9xLww3JeIDR1F0RQ.png" alt="Datalemur" height="100" width="180" /></a> 
+   <a href="https://www.hackerrank.com/dashboard" target="blank"><img align="center" src="https://cdn-images-1.medium.com/max/2600/1*UGT1Rh9xLww3JeIDR1F0RQ.png" alt="HackerRank" height="100" width="180" /></a>   <a href="https://datalemur.com/" target="blank"><img align="center" src="https://cdn-images-" alt="Datalemur" height="100" width="180" /></a> 
 
  <h3 align="left">Languages and Tools:</h3>
 
