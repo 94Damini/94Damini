@@ -2,7 +2,8 @@
   </h1>
 <h3 align="center">Data Analyst | Data Scientist | Machine Learning</h3>
 
-[Profile views](https://gpvc.arturio.dev/94Damini)
+
+![Profile views](https://gpvc.arturio.dev/94Damini)
 
  👀 About me:
  
@@ -49,6 +50,4 @@
 <p align="left">
 
 <a href = "https://www.linkedin.com/in/damini-singh-gaur-511145243/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a> 
-<a href="mailto:daminisgaur1994@gmail.com" target="_blank"><img alt="Gmail" width="25px"    
-src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg"></a> 
-  
+
