@@ -36,8 +36,8 @@
    
  ![𝚝𝚛𝚘𝚙𝚑𝚢](https://github-profile-trophy.vercel.app/?username=94Damini&column=9&margin-w=15&margin-h=15&no-bg=true&no-frame=true&theme=juicyfresh)
   
-  
-   <p align="center">
+ 
+  <p align="center">
     <a href="https://github.com/94Damini/github-readme-streak-stats">
         <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="94Daministreak" src="https://github-readme-streak-stats.herokuapp.com/?user=94Damini&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a>
