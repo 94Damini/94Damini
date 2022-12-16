@@ -6,12 +6,11 @@
   </h1>
 <h3 align="center">Data Analyst | Data Scientist | Machine Learning</h3>
 
+<div id="header" align="center">
+<img src="https://www.canva.com/design/DAFU9aPYHXY/kU_ea29XsgyoFTeSezqr3A/viewutm_content=DAFU9aPYHXY&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink&mode=preview" width="800" height="300"/>
+</div>
 
-<img
-  src=""
-  alt="Alt text"
-  title="Optional title"
-  style="display: inline-block; margin: 0 auto; max-width: 300px">
+
 
 
 ![Profile views](https://gpvc.arturio.dev/94Damini)
