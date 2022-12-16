@@ -7,6 +7,13 @@
 <h3 align="center">Data Analyst | Data Scientist | Machine Learning</h3>
 
 
+<img
+  src=""
+  alt="Alt text"
+  title="Optional title"
+  style="display: inline-block; margin: 0 auto; max-width: 300px">
+
+
 ![Profile views](https://gpvc.arturio.dev/94Damini)
 
  👀 About me:
