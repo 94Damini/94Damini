@@ -1,19 +1,26 @@
 <div id="header" align="center">
-  <img src="https://cdn.dribbble.com/users/1047273/screenshots/6515762/01-pinssm.gif" width="400"/>
+  <img src="https://cdn.dribbble.com/users/1047273/screenshots/6515762/01-pinssm.gif" width="300"/>
 </div>
+
+
+
+<p align="center">
+
+![Profile views](https://gpvc.arturio.dev/94Damini)
+
+</p>
 
 <h1 align="center">Hello <img src="https://raw.githubusercontent.com/JayantGoel001/JayantGoel001/master/GIF/Earth.gif" width="24px"> I'm Damini Singh Gaur<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
   </h1>
 <h3 align="center">Data Analyst | Data Scientist | Machine Learning</h3>
 
 <div id="header" align="center">
-<img src="https://www.canva.com/design/DAFU9aPYHXY/kU_ea29XsgyoFTeSezqr3A/viewutm_content=DAFU9aPYHXY&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink&mode=preview" width="800" height="300"/>
+<img src="git hub gif.gif"" width="800" height="300"/>
 </div>
 
 
 
 
-![Profile views](https://gpvc.arturio.dev/94Damini)
 
  👀 About me:
  
