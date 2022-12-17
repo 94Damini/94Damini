@@ -1,13 +1,13 @@
-<div id="header" align="center">
+<div id="header" align="left">
   <img src="https://cdn.dribbble.com/users/1047273/screenshots/6515762/01-pinssm.gif" width="300"/>
 </div>
 
-<h3 align="center">
+<h3 align="left">
   
 ![Profile views](https://gpvc.arturio.dev/94Damini)
-
-
-
+<img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/94Damini/beautify-github-profile?color=blue&style=flat-square">
+  
+  
 <h1 align="center">Hello <img src="https://raw.githubusercontent.com/JayantGoel001/JayantGoel001/master/GIF/Earth.gif" width="24px"> Nice to See You!<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
   </h1>
 
@@ -49,10 +49,13 @@
 
    <h4 align="center"> 👩‍💻Skills I have:</h4>
   
-     Microsoft-Excel,  Microsoft Powerpoint
-     SQL, Mysql  
-     Python[Pandas, Numpy , Matplotlib , seaborn]
-     Power-Bi, tableau
+                  Visualization: Microsoft-Excel,  Microsoft Powerpoint
+                               Power-Bi, tableau ,  
+                               python  [Matplotlib , seaborn]
+                 Data Collection and Storage:  SQL, 
+                                        Mysql  
+                  Data Processing and Analytics: Python[Pandas, Numpy] 
+                                              Jupyter
      
         
                
