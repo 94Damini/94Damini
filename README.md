@@ -4,18 +4,19 @@
 
 
 
+
 <p align="center">
 
 ![Profile views](https://gpvc.arturio.dev/94Damini)
 
 </p>
 
-<h1 align="center">Hello <img src="https://raw.githubusercontent.com/JayantGoel001/JayantGoel001/master/GIF/Earth.gif" width="24px"> I'm Damini Singh Gaur<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+<h1 align="center">Hello <img src="https://raw.githubusercontent.com/JayantGoel001/JayantGoel001/master/GIF/Earth.gif" width="24px"> Nice to See You!<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
   </h1>
-<h3 align="center">Data Analyst | Data Scientist | Machine Learning</h3>
+
 
 <div id="header" align="center">
-<img src="git hub gif.gif"" width="800" height="300"/>
+<img src="final git gif.gif"" width="800" height="300"/>
 </div>
 
 
@@ -53,17 +54,17 @@
 ![𝚝𝚛𝚘𝚙𝚑𝚢](https://github-profile-trophy.vercel.app/?username=94Damini&column=9&margin-w=10&margin-h=10&no-bg=true&no-frame=true&theme=juicyfresh)
   
   
- 
+  
+                                                                                                                                           
   <p align="left">
     <a href="https://github.com/94Damini/github-readme-streak-stats">
         <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="94Daministreak"  img height="140em"src="https://github-readme-streak-stats.herokuapp.com/?user=94Damini&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a>
-
-
-  <div align="center">
+            
+<div align="center">
 <h3> Connect with me<a href="https://gifyu.com/image/Zy2f"><img src="https://github.com/milaan9/milaan9/blob/main/Handshake.gif" width="60"></a>
 </h3> 
-  
+                                                                                                                                           
 <p align="left">
 
 <a href="https://github.com/94Damini"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
@@ -73,6 +74,9 @@
 
 
 </p>
+  
+ 
+
 
 
 
