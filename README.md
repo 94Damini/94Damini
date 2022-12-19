@@ -44,7 +44,7 @@
   <h4 align="center"> 👀About me:</h4>
 
           👩‍🎓Mechanical Engineering graduate
-                 Almabetter Data Scientist Student   
+                 Almabetter Data Science Student   
   
 
    <h4 align="center"> 👩‍💻Skills I have:</h4>
