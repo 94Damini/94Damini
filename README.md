@@ -40,14 +40,13 @@
 
                                                                           
                                                                           
-
-  <h4 align="center"> 👀About me:</h4>
+<h4 align="center"> 👀About me:</h4>
 
           👩‍🎓Mechanical Engineering graduate
                  Almabetter Data Science Student   
   
 
-   <h4 align="center"> 👩‍💻Skills I have:</h4>
+<h4 align="center"> 👩‍💻Skills I have:</h4>
   
                   Visualization: Microsoft-Excel,  Microsoft Powerpoint
                                Power-Bi, tableau ,  
@@ -58,9 +57,7 @@
                                               Jupyter
      
         
-               
-               
-  <h3 align="center">Languages and Tools:</h3>
+<h3 align="center">Languages and Tools:</h3>
   
 
 </a><a href="https://github.com/94Damini/Data-Science-and-Machine-Learning-Practice" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="100" height="80"/>            </a><a href="https://public.tableau.com/app/profile/Damini singh gaur" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/tableau-logo.svg" alt="tableau" width="100" height="80"/>  </a> <a href="https://github.com/94Damini/Data-Science-and-Machine-Learning-Practice" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="60" height="60"/> </a> <a href="https://github.com/94Damini/Data-Science-and-Machine-Learning-Practice" target="_blank"> <img src="https://numpy.org/images/twitter-image.jpg" alt="scikit_learn" width="100" height="50"/> </a> <a href="https://github.com/soopertramp/Data-Science-and-Machine-Learning-Practice" target="_blank"> <img src="https://www.kindpng.com/picc/m/574-5747046_python-pandas-logo-transparent-hd-png-download.png" alt="scikitlearn" width="120" height="50"/> </a> <a href="https://github.com/94Damini/Data-Science-and-Machine-Learning-Practice" target="_blank"> <img src="https://www.davecwright.org/files/sps-files/figures/dave/scipy.png" alt="scikit_learn" width="120" height="50"/> </a> <a href="https://github.com/soopertramp/Data-Science-and-Machine-Learning-Practice" target="_blank"> <img src="https://miro.medium.com/max/805/1*aUSZsGFCMPNYCkQygs4aGQ.jpeg" alt="scikit_learn" width="160" height="50"/> </a> <a href="https://github.com/94Damini/Data-Science-and-Machine-Learning-Practice" target="_blank"> <img src="https://jorisvandenbossche.github.io/2018_DigiCosme_Software_Day/img/sklearn_logo.png" alt="scikit_learn" width="120" height="50"/> 
