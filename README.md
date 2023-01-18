@@ -8,7 +8,7 @@
 <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/94Damini/beautify-github-profile?color=blue&style=flat-square">
   
   
-<h1 align="center">Hello <img src="https://raw.githubusercontent.com/JayantGoel001/JayantGoel001/master/GIF/Earth.gif" width="24px"> Nice to See You!<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+<h1 align="center">Hello :wave: Nice to See You!<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
   </h1>
 
 
