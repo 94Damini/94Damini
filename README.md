@@ -30,7 +30,7 @@
 
 
 <div id="header" align="center">
-<img src="final git gif.gif" width="800" height="300"/>
+<img src="final git gif.gif" width="900" height="300"/>
 </div>   
                                                       
                                                       
